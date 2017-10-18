@@ -1,0 +1,7 @@
+Header append Cache-Control "public"
+
+Cache-Control: max-age=31536000, public
+
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|svg|swf|mp3|vtt|)(\.gz)?$">
+Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>
