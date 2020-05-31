@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Amazon"
-  organization_url = "https://www.coursera.org"
+  organization = "AWS"
+  organization_url = "https://www.aws.amazon.com"
   title = "AWS Solutions Architect Developer"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "https://www.aws.amazon.com"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
@@ -32,10 +32,10 @@ date_format = "Jan 2006"
   organization = "RedHat"
   organization_url = "https://www.redhat.com"
   title = "RedHat Certified System Administrator"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  url = "https://www.redhat.com"
+  certificate_url = "https://www.redhat.com"
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Red Hat Platform System Adminsitrator."
 
 +++

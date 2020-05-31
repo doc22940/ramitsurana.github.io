@@ -42,6 +42,11 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+ course = "Masters in Technology" 
+ institution = "BITS Pilani"
+ year = 2022
+
+[[education.courses]]
  course = "Bachelor's in Technology" 
  institution = "B.K. Birla Institue of Engineering and Technology"
  year = 2017
@@ -61,10 +66,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://twitter.com/ramitsurana"
 
-#[[social]]
-  #icon = "google-scholar"
-  #icon_pack = "ai"
-  #link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=FwpHk3cAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
