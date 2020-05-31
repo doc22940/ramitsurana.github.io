@@ -18,18 +18,18 @@ subtitle = "Learning New Skills Everyday"
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "85%"
   
 [[feature]]
-  icon = "fa-cloud"
-  icon_pack = "fas"
+  icon = "aws"
+  icon_pack = "fab"
   name = "AWS"
-  description = "100%"  
+  description = "90%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Containers"
+  description = "80%"
 
 +++

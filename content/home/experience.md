@@ -25,17 +25,16 @@ date_format = "Jan 2006"
   date_start = "2019-12-01"
   date_end = ""
   description = """
-  Working as a Cloud Engineer in Hitachi Vantara
-  Responsibilities include:
+  Working as a Cloud Engineer in Hitachi Vantara.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Cloud Engineer"
+  company = "Rean Cloud"
+  company_url = "https://reancloud.com"
+  location = "Pune, India"
+  date_start = "2017-11-06"
+  date_end = "2019-12-01"
+  description = """Working as a Cloud Engineer."""
 
 +++
