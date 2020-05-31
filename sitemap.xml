@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ramitsurana.github.io/projects/projects/</loc>
+    <lastmod>2020-05-31T15:39:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/author/admin/</loc>
+    <lastmod>2020-05-31T20:42:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/authors/admin/</loc>
+    <lastmod>2020-05-31T20:42:27+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/authors/</loc>
+    <lastmod>2020-05-31T20:42:27+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/post/</loc>
+    <lastmod>2020-05-31T15:39:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/projects/</loc>
+    <lastmod>2020-05-31T15:39:09+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/publication/</loc>
+    <lastmod>2020-05-31T15:39:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/</loc>
+    <lastmod>2020-05-31T15:39:09+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/talk/</loc>
+    <lastmod>2020-05-31T15:39:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramitsurana.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
