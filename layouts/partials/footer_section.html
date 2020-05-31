@@ -1,0 +1,42 @@
+<footer class="site-footer">
+  {{ with .Site.GetPage "privacy.md" }}
+  <p class="powered-by">
+    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+  </p>
+  {{ end }}
+
+  <p class="powered-by">
+    {{ with .Site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+
+    <span class="float-left" aria-hidden="true">
+        <a href="https://github.com/ramitsurana" target="_blank"  id="back_to_top">
+          <span class="fa-stack fa-lg">
+            <i class="far fa-circle fa-stack-2x"></i>
+            <i class="fab fa-circle fa-github fa-inverse"></i>
+          </span>
+        </a>
+        <a href="https://twitter.com/ramitsurana" target="_blank" id="back_to_top">
+          <span class="fa-stack fa-lg">
+            <i class="far fa-circle fa-stack-2x"></i>
+            <i class="fab fa-circle fa-twitter fa-inverse"></i>
+          </span>
+        </a>
+        <a href="https://linkedin.com/in/ramitsurana" target="_blank" id="back_to_top">
+          <span class="fa-stack fa-lg">
+              <i class="far fa-circle fa-stack-2x"></i>
+            <i class="fab fa-circle fa-linkedin fa-inverse"></i>
+          </span>
+        </a>
+      </span>
+
+    {{ if ne .Type "docs" }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+  </p>
+</footer>
