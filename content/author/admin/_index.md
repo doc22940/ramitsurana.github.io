@@ -32,7 +32,8 @@ interests = [
 technologies = [
   "Python",
   "Programming",
-  "Data Structures and Algorithms"
+  "Data Structures and Algorithms",
+  "AWS"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -40,10 +41,10 @@ technologies = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-#[[education.courses]]
-#  course = "Bachelor's in Technology"
-#  institution = "B.K.Birla Institue of Engineering and Technology"
-#  year = 2018
+[[education.courses]]
+ course = "Bachelor's in Technology" 
+ institution = "B.K. Birla Institue of Engineering and Technology"
+ year = 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -79,5 +80,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Ramit Surana is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 
 
+* DevOps Enthusisatic
+* Traveller
+* Open Source Contributor and Speaker

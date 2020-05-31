@@ -18,18 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Cloud Engineer"
+  company = "Hitachi Vantara"
+  company_url = "https://hitachivantara.com"
+  location = "Pune, India"
+  date_start = "2019-12-01"
   date_end = ""
   description = """
+  Working as a Cloud Engineer in Hitachi Vantara
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
