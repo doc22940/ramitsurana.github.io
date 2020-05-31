@@ -13,15 +13,15 @@
   url = "#skills"
   weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-
 
 [[main]]
   name = "Contact"
   url = "#contact"
+  weight = 60
+
+[[main]]
+  name = "Blog"
+  url = "https://ramitsurana.github.io/myblog/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

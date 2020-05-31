@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = "Learning New Skills Everyday"
+subtitle = "Some of my Skill Sets"
 
 # Showcase personal skills or business features.
 # 
@@ -18,18 +18,36 @@ subtitle = "Learning New Skills Everyday"
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "85%"
+  description = ""
   
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
   name = "AWS"
-  description = "90%"  
+  description = ""  
   
 [[feature]]
   icon = "docker"
   icon_pack = "fab"
   name = "Containers"
-  description = "80%"
+  description = ""
+
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
+  description = ""
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Git"
+  description = ""
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Database"
+  description = ""
 
 +++

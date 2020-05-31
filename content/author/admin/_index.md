@@ -29,12 +29,7 @@ interests = [
 ]
 
 # List (academic) interests or hobbies
-technologies = [
-  "Python",
-  "Programming",
-  "Data Structures and Algorithms",
-  "AWS"
-]
+technologies = []
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
