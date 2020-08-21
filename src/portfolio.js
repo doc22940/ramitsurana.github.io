@@ -41,7 +41,7 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ",
+    link: "https://www.youtube.com/channel/UC1oG8ghVnv228kpxFCN6G2w",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
@@ -645,7 +645,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "ramit-profile-pic.jpg",
+    profile_image_path: "ramit-profile-pic.png",
     description: "My name is Ramit Surana.",
   },
   blogSection: {
@@ -657,8 +657,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    subtitle: "XXXXXXXX",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
