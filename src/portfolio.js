@@ -113,13 +113,6 @@ const skills = {
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
           style: {
@@ -137,7 +130,7 @@ const skills = {
           skillName: "Chef",
           fontAwesomeClassname: "simple-icons:chef",
           style: {
-            color: "#47A248",
+            color: "#FFA500",
           },
         },
       ],
@@ -366,7 +359,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "http://bits-pilani.ac.in",
     },
     {
       title: "B.K. Birla Institute of Engineering and Technology",
@@ -379,7 +372,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "http://bkbiet.ac.in",
     },
   ],
 };
@@ -388,10 +381,10 @@ const certifications = {
   certifications: [
     {
       title: "AWS Associate Solutions Architect",
-      subtitle: "- Andrew Ng",
+      subtitle: "AWS",
       logo_path: "aws-logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://www.youracclaim.com/badges/e8ca2be6-d4a6-4e91-b6d2-c64d7d3fe72d/public_url",
       alt_name: "AWS",
       color_code: "#FFFFFF",
     },
@@ -525,18 +518,18 @@ const experience = {
           duration: "December 2019 - PRESENT",
           location: "Pune, Maharashtra",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Part of the Digital Insights team, to support them with DevOps related activities. Had the opportunity to work with some client-side companies which are amongst the top Fortune 500 companies.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
+          title: "Software Engineer",
+          company: "Digital Product School",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          duration: "September 2018 - November 2018",
+          location: "Munich, Germany",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Worked as a Software Engineer in Munich, Germany. The program is conducted by ​UnternehmerTUM​ ​(part of ​technical University of Munich​)​. Involved working as a team with different nationalities around the globe.The program involved the problem space within E-Cars for which I developed the Rest APIs in Python along with firebase storage by Google Cloud as a database for storing information.",
           color: "#9b1578",
         },
       ],
@@ -545,27 +538,15 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
+          title: "Intern",
+          company: "IBM",
+          company_url: "https://www.ibm.com/",
           logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          duration: "March 2017 - May 2017",
+          location: "Pune, India",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "Worked as an intern at Global Business Services (GBS) under the Digital Integration Practice Group. Did complete research & analysis on the AWS Cloud-based DevOps software architecture for Barclays, the UK using tools like Codepipeline, AWS ECS, AWS Region-wise Cost Analysis of different solutions in AWS, etc.Completed drafting out new microservices-based continuous delivery pipeline documentation.",
           color: "#ee3c26",
-        },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
         },
       ],
     },
@@ -582,51 +563,6 @@ const experience = {
           description:
             "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
           color: "#4285F4",
-        },
-        {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
-        {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-          color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating peoper documentation for project.",
-          color: "#181717",
         },
       ],
     },
@@ -645,7 +581,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "ramit-profile-pic.png",
+    profile_image_path: "address_image.svg",
     description: "My name is Ramit Surana.",
   },
   blogSection: {
