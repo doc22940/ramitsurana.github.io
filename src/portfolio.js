@@ -8,7 +8,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Ramit Surana",
-  logo_name: "RamitSurana",
+  logo_name: "Ramit Surana",
   nickname: "ramitsurana",
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
@@ -581,7 +581,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "address_image.svg",
+    profile_image_path: "contact-me.svg",
     description: "My name is Ramit Surana.",
   },
   blogSection: {
