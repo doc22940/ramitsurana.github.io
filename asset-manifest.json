@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.80c545ec.chunk.css",
-    "main.js": "./static/js/main.450279c1.chunk.js",
-    "main.js.map": "./static/js/main.450279c1.chunk.js.map",
+    "main.js": "./static/js/main.1ab74a6e.chunk.js",
+    "main.js.map": "./static/js/main.1ab74a6e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.a4a8f4e9.chunk.js": "./static/js/2.a4a8f4e9.chunk.js",
-    "static/js/2.a4a8f4e9.chunk.js.map": "./static/js/2.a4a8f4e9.chunk.js.map",
+    "static/js/2.34366f49.chunk.js": "./static/js/2.34366f49.chunk.js",
+    "static/js/2.34366f49.chunk.js.map": "./static/js/2.34366f49.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.5ddc4a6ab7369993eb93558d94fdff96.js": "./precache-manifest.5ddc4a6ab7369993eb93558d94fdff96.js",
+    "precache-manifest.575d80e87ec2930334f7ef5d95d51109.js": "./precache-manifest.575d80e87ec2930334f7ef5d95d51109.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.80c545ec.chunk.css.map": "./static/css/main.80c545ec.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
@@ -21,6 +21,7 @@
     "static/media/blogs_image.svg": "./static/media/blogs_image.b6b12c7d.svg",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "./static/media/codeInLogo.b3685be8.png",
+    "static/media/contact-me.svg": "./static/media/contact-me.d38b4172.svg",
     "static/media/contactMail.png": "./static/media/contactMail.d6d4086f.png",
     "static/media/data_science.svg": "./static/media/data_science.434d2b01.svg",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.7a9b2eb0.png",
@@ -45,6 +46,7 @@
     "static/media/nptel_logo.png": "./static/media/nptel_logo.cd7077f7.png",
     "static/media/portfolio.gif": "./static/media/portfolio.6e7dc5ad.gif",
     "static/media/programmer.svg": "./static/media/programmer.c1a95f73.svg",
+    "static/media/programming.svg": "./static/media/programming.1e8ef79d.svg",
     "static/media/projects_image.svg": "./static/media/projects_image.f7964c6b.svg",
     "static/media/pwa.png": "./static/media/pwa.bd5f4148.png",
     "static/media/ramit-profile-pic.png": "./static/media/ramit-profile-pic.5aecf43b.png",
@@ -55,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.a4a8f4e9.chunk.js",
+    "static/js/2.34366f49.chunk.js",
     "static/css/main.80c545ec.chunk.css",
-    "static/js/main.450279c1.chunk.js"
+    "static/js/main.1ab74a6e.chunk.js"
   ]
 }
